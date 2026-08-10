@@ -23,6 +23,6 @@ All Areas (native nametag recoloring)
 
 ## Windows Installation
 * 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
-* 2 - Place NameplatesPlugin.dll into the \plugins folder
+* 2 - Place Nameplates.dll into the \plugins folder
 * 3 - Load GWToolbox as usual
 * 4 - Navigate to Plugins > Nameplates > Load
