@@ -21,8 +21,8 @@ All Areas (native nametag recoloring)
 * Shared profession color palette covering all 10 professions, individually toggleable and colorable
 <img width="1328" height="751" alt="npgwtbplugin" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
 
-## Installation
-* 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
-* 2 - Place NameplatesPlugin.dll into the \plugins folder
-* 3 - Load GWToolbox as usual
-* 4 - Navigate to Plugins > Nameplates > Load
+## Windows Installation
+1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
+2 - Place NameplatesPlugin.dll into the \plugins folder
+3 - Load GWToolbox as usual
+4 - Navigate to Plugins > Nameplates > Load
