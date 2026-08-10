@@ -26,3 +26,8 @@ All Areas (native nametag recoloring)
 * 2 - Place Nameplates.dll into the \plugins folder
 * 3 - Load GWToolbox as usual
 * 4 - Navigate to Plugins > Nameplates > Load
+
+## Recommended gMods
+* Note: Load in order below for best results
+* [Overhead Health Bar Remover UI by Pyron Sy](https://www.mediafire.com/?bxcmj0mwin4)
+* [MinimalusUI 3.2 by gkoogz](https://github.com/gkoogz/MinimalusUIMod/releases)
