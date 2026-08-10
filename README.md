@@ -22,7 +22,7 @@ All Areas (native nametag recoloring)
 <img width="1328" height="751" alt="npgwtbplugin" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
 
 ## Windows Installation
-1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
-2 - Place NameplatesPlugin.dll into the \plugins folder
-3 - Load GWToolbox as usual
-4 - Navigate to Plugins > Nameplates > Load
+* 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
+* 2 - Place NameplatesPlugin.dll into the \plugins folder
+* 3 - Load GWToolbox as usual
+* 4 - Navigate to Plugins > Nameplates > Load
