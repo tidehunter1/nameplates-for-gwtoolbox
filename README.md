@@ -1,5 +1,4 @@
-<img width="1328" height="751" alt="npgwtbplugin" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
-Nameplates for GWToolbox - Feature Summary
+# Nameplates for GWToolbox
 
 Nameplates is a GWToolbox plugin for GuildWars1 that replaces default nametags in explorable areas with fully customizable health bars(similar to WoW's nameplates), and recolors native nametags everywhere in the game. It supports priority and profession based coloring, boss highlighting, status effect indicators, distance based fading, and smooth stacking, giving you a clearer and more configurable view of enemies and allies at a glance.
 
@@ -20,3 +19,4 @@ All Areas (native nametag recoloring)
 * Quest giver nametags recolored
 * Ally nametags colored by profession
 * Shared profession color palette covering all 10 professions, individually toggleable and colorable
+<img width="1328" height="751" alt="npgwtbplugin" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
